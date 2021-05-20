@@ -1,0 +1,16 @@
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\Laba7.exe
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\Laba7.deps.json
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\Laba7.runtimeconfig.json
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\Laba7.runtimeconfig.dev.json
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\Laba7.dll
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\ref\Laba7.dll
+F:\C#\Labaratory\Laba7\bin\Debug\net5.0\Laba7.pdb
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.csprojAssemblyReference.cache
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.AssemblyInfoInputs.cache
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.AssemblyInfo.cs
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.csproj.CoreCompileInputs.cache
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.dll
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\ref\Laba7.dll
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.pdb
+F:\C#\Labaratory\Laba7\obj\Debug\net5.0\Laba7.genruntimeconfig.cache
